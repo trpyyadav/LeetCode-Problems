@@ -1,2 +1,2 @@
-# LeetCode-Problems
-LeetCode Problems
+# DSA-Problems
+DSA Problems
